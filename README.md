@@ -1,6 +1,6 @@
-![Privacy Needle Banner](https://privacyneedle.com/wp-content/uploads/2025/01/privacyneedle-banner.png)
-![GitHub last commit](https://img.shields.io/github/last-commit/ikeh007//privacyneedle-articles)
-![License](https://img.shields.io/github/license/ikeh007//privacyneedle-articles)
+![Privacy Needle Banner](https://privacyneedle.com/wp-content/uploads/2025/09/privacy-needle-Logo.webp))
+![GitHub last commit](https://img.shields.io/github/last-commit/ikeh007/privacyneedle-articles)
+![License](https://img.shields.io/github/license/ikeh007/privacyneedle-articles)
 ![Website](https://img.shields.io/website?url=https%3A%2F%2Fprivacyneedle.com)
 
 # Privacy Needle 🛡️
